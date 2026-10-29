@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rohtak VPN</string>
+    <string name="title_rohtak_vpn">ROHTAK VPN</string>
+
+    <string name="status_connected">CONNECTED</string>
+    <string name="status_connecting">CONNECTING…</string>
+    <string name="status_disconnected">DISCONNECTED</string>
+
+    <string name="no_config">Pehle server config import karo — QR scan ya .conf file se</string>
+    <string name="detail_server">Server:</string>
+    <string name="detail_tunnel">Tunnel:</string>
+
+    <string name="btn_scan_qr">QR se Import</string>
+    <string name="btn_import_conf">.conf File</string>
+    <string name="qr_prompt">Server ka QR code scan karo</string>
+
+    <string name="label_rx">RECEIVED</string>
+    <string name="label_tx">SENT</string>
+    <string name="label_duration">TIME</string>
+
+    <string name="footer_location">28.875089, 76.637220 • Rohtak, Haryana • India</string>
+
+    <string name="toast_no_config">Pehle server config import karo (QR ya .conf file)</string>
+    <string name="toast_vpn_denied">VPN permission nahi mili</string>
+    <string name="toast_config_saved">Config import ho gaya</string>
+    <string name="toast_bad_config">Config galat hai</string>
+    <string name="toast_connect_fail">Connect fail hua</string>
+    <string name="toast_file_fail">File nahi khul payi</string>
+</resources>
